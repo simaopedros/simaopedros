@@ -15,6 +15,6 @@
 
 #### Alguns Projetos que ja desenvolvi: 
 
-- Curso RPA Udemy / Hotmart - 
-- Aplicativo de Lista de Tarefas em Flutter - 
-- Aplicativo de biblia em Flutter - 
+- Curso RPA Udemy / Hotmart - https://lp.bitocean.dev/cursorpa/
+- Aplicativo de Lista de Tarefas em Flutter - https://play.google.com/store/apps/details?id=br.com.sps.student
+- Aplicativo de biblia em Flutter - https://play.google.com/store/apps/details?id=br.com.sps.bible
