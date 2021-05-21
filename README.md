@@ -1,16 +1,20 @@
-### Hi there 👋
+# Ola Bem vindo ao meu GitHub 👋
 
-<!--
-**simaopedros/simaopedros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Eu sou o Simão Pedro, e sou desenvolvedor RPA.
 
-Here are some ideas to get you started:
+#### 🔭 Atualmente estou trabalhando com Desenvolvimento RPA usando a Plataforma UiPath
+#### 🌱 Atualmente estou aprendendo Automation Anywhere
+#### 👯 Tenho um canal no YouTube onde dou dicas de desenvolvimento com UiPath
+#### 💬 Se precisar de Alguma dica seobre RPA pode entrar em contado nos meus canais de Comunicação
+#### 📫 Como entrar em contato comigo: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Youtube:  https://www.youtube.com/channel/UCAXy0vBLmHmvyndo_mJM0gw
+-  Twitter:  https://twitter.com/simaopedros
+-  Linkedin: https://www.linkedin.com/in/simaopedros
+-  Telegram: https://t.me/joinchat/WWfhAszuvqAoGFe3
+
+#### Alguns Projetos que ja desenvolvi: 
+
+- Curso RPA Udemy / Hotmart - 
+- Aplicativo de Lista de Tarefas em Flutter - 
+- Aplicativo de biblia em Flutter - 
