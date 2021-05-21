@@ -1,5 +1,7 @@
 # Ola Bem vindo ao meu GitHub 👋
 
+ ![visitor](https://visitor-badge.glitch.me/badge?page_id=simaopedros)
+ 
 ### Eu sou o Simão Pedro, e sou desenvolvedor RPA.
 
 #### 🔭 Atualmente estou trabalhando com Desenvolvimento RPA usando a Plataforma UiPath
@@ -13,8 +15,13 @@
 -  Linkedin: https://www.linkedin.com/in/simaopedros
 -  Telegram: https://t.me/joinchat/WWfhAszuvqAoGFe3
 
-#### Alguns Projetos que ja desenvolvi: 
+#### Alguns Projetos que ja desenvolvo: 
 
 - Curso RPA Udemy / Hotmart - https://lp.bitocean.dev/cursorpa/
 - Aplicativo de Lista de Tarefas em Flutter - https://play.google.com/store/apps/details?id=br.com.sps.student
 - Aplicativo de biblia em Flutter - https://play.google.com/store/apps/details?id=br.com.sps.bible
+
+#### ⚡ Tecnologias
+
+- UiPath
+- Automation AnyWahere
